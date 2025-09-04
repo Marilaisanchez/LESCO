@@ -5,5 +5,17 @@ El proyecto es un prototipo que detecta y reconoce gestos de la Lengua de Señas
 Objetivos clave
 
 Inclusión: Facilitar la comunicación entre personas oyentes y la comunidad sorda costarricense.
+
 Ligero y portátil: Funciona en CPU y puede adaptarse a web o dispositivos móviles.
+
 Extensible: Permite añadir nuevas letras o gestos re-entrenando el modelo con datos adicionales.
+
+## Paquetes a utilizar y bibliotecas ##
+
+mediapipe = "*"
+
+opencv-python = "*"
+
+pandas = "*"
+
+scikit-learn = "*"
