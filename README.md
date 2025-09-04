@@ -1,4 +1,5 @@
-#PROYECTO
+#PROYECTO#
+
 El proyecto es un prototipo que detecta y reconoce gestos de la Lengua de Señas Costarricense (LESCO) en tiempo real, convirtiéndolos en texto escrito. Combina la extracción de puntos de referencia (landmarks) de la mano mediante MediaPipe con modelos clásicos de machine learning para clasificar señales estáticas (letras del alfabeto) y dinámicas (palabras breves).
 
 Objetivos clave
